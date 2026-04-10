@@ -1,4 +1,4 @@
-package com.example.homeworkmodule15.entity;
+package com.example.homeworkmodule16.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
