@@ -42,11 +42,10 @@ public class NoteController {
 
     // Обробка редагування
     @PostMapping("/edit")
-    public String editNoteSubmit(@RequestParam long id,
-                                 @RequestParam String title,
+    public String editNoteSubmit(@RequestParam String title,
                                  @RequestParam String content) {
         Note note = new Note();
-        note.setId(id);
+        //note.setId(id);
         note.setTitle(title);
         note.setContent(content);
         noteService.update(note);
