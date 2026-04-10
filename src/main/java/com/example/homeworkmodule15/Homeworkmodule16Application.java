@@ -1,7 +1,7 @@
-package com.example.homeworkmodule15;
+package com.example.homeworkmodule16;
 
 
-import com.example.homeworkmodule15.entity.Note;
+import com.example.homeworkmodule16.entity.Note;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.CommandLineRunner;
