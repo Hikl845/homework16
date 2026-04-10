@@ -1,6 +1,6 @@
-package com.example.homeworkmodule15;
+package com.example.homeworkmodule16;
 
-import com.example.homeworkmodule15.entity.Note;
+import com.example.homeworkmodule16.entity.Note;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
