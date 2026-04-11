@@ -1,7 +1,7 @@
-package com.example.homeworkmodule15.controllers;
+package com.example.homeworkmodule16.controllers;
 
-import com.example.homeworkmodule15.entity.Note;
-import com.example.homeworkmodule15.NoteService;
+import com.example.homeworkmodule16.entity.Note;
+import com.example.homeworkmodule16.NoteService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
