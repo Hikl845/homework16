@@ -1,4 +1,4 @@
-package com.example.homeworkmodule15.controllers;
+package com.example.homeworkmodule16.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
