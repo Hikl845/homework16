@@ -1,10 +1,12 @@
-package com.example.homeworkmodule16.entity.controllers;
+package com.example.homeworkmodule15.controllers;
 
-import com.example.homeworkmodule16.entity.Note;
-import com.example.homeworkmodule16.NoteService;
+import com.example.homeworkmodule15.entity.Note;
+import com.example.homeworkmodule15.NoteService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
+
+import static com.sun.tools.javac.resources.CompilerProperties.Notes.Note;
 
 //import static com.sun.tools.javac.resources.CompilerProperties.Notes.Note;
 
